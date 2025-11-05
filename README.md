@@ -2,7 +2,6 @@
 
 ## 이란우의 모바일 앱 수업
 
-# BGW-MOBILE
 모바일 앱 실습
 Space
 <table border="0" cellpadding="0" cellspacing="15" align="center">
