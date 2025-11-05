@@ -9,22 +9,22 @@ Space
   <tr>
     <td align="center" valign="top">
       <table border="1" cellpadding="5" cellspacing="0">
+        <tr><td align="center" valign="middle"><img src="m07/UIimgs/ina.png" width="150" height="300" /></td></tr>
+      </table>
+    </td>
+    <td align="center" valign="top">
+      <table border="1" cellpadding="5" cellspacing="0">
+        <tr><td align="center" valign="middle"><img src="m07/UIimgs/ina2.png" width="150" height="300" /></td></tr>
+      </table>
+    </td>
+    <td align="center" valign="top">
+      <table border="1" cellpadding="5" cellspacing="0">
         <tr><td align="center" valign="middle"><img src="m07/UIimgs/countdownt.png" width="150" height="300" /></td></tr>
       </table>
     </td>
     <td align="center" valign="top">
       <table border="1" cellpadding="5" cellspacing="0">
-        <tr><td align="center" valign="middle"><img src="UIimgs/ina2.png?raw=true" width="150" height="300" /></td></tr>
-      </table>
-    </td>
-    <td align="center" valign="top">
-      <table border="1" cellpadding="5" cellspacing="0">
-        <tr><td align="center" valign="middle"><img src="UIimgs/countdown.png?raw=true" width="150" height="300" /></td></tr>
-      </table>
-    </td>
-    <td align="center" valign="top">
-      <table border="1" cellpadding="5" cellspacing="0">
-        <tr><td align="center" valign="middle"><img src="UIimgs/bubble.gif?raw=true" width="150" height="300" /></td></tr>
+        <tr><td align="center" valign="middle"><img src="m07/UIimgs/bubble.png" width="150" height="300" /></td></tr>
       </table>
     </td>
   </tr>
